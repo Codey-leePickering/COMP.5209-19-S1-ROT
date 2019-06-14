@@ -1,5 +1,5 @@
 Website Test (y/n)
-Tester: Codey-lee Pickering
+Tester: Mersius
 
 Q1: Is the website responsive when increasing and decreasing the size of the window in browser? y
 Q2: Does dropdown menu appear when viewed in mobile screen size? y
